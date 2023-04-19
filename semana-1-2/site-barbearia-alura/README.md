@@ -1,63 +1,66 @@
 # SEMANA 01
 
-## Aula 1:HTML5 e CSS3 parte 1: crie uma página da Web
+## Aula 1: HTML5 e CSS3 parte 1: crie uma página da Web
 
 ### Tópicos abordados:
 
-1. Aprenda o que é o HTML e o CSS
+- Aprenda o que é o HTML e o CSS
 
-1. Entenda a estrutura básica de um arquivo HTML
+- Entenda a estrutura básica de um arquivo HTML
 
-- *Utilize* o _navegador_ para inspecionar elementos
+- Utilize o navegador para inspecionar elementos
 
-- **Aprenda** a __definir__ estilos para elementos usando o CSS
+- Aprenda a definir estilos para elementos usando o CSS
 
-- Desenvolva um página Web \<tag> asdadasd 
-- Desenvolva um página Web ```<tag> asdadasd```
-
-```html
-<html>
-    <head>
-    </head>
-    <body>
-        <img src="blabla">
-    </body>
-</html>
-```
+- Desenvolva um página Web
 
 
-Aula 2:HTML5 e CSS3 parte 2: posicionamento, listas e navegação
 
-Tópicos abordados:
+## Aula 2: HTML5 e CSS3 parte 2: posicionamento, listas e navegação
 
-> Aprenda a estrutura da página HTML
-> Navegue entre páginas web
-> Conheça reset.css e o posicionamento pelo CSS
-> Entenda a diferença entre inline e block
-> Lide com bordas e pseudo-classes CSS
+### Tópicos abordados:
+
+- Aprenda a estrutura da página HTML
+
+- Navegue entre páginas web
+
+- Conheça reset.css e o posicionamento pelo CSS
+
+- Entenda a diferença entre inline e block
+
+- Lide com bordas e pseudo-classes CSS
 
 __________
 
+# SEMANA 02
 
-SEMANA 02
+## Aula 1: HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas
 
-Aula 1: HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas
+### Tópicos abordados:
 
-Tópicos abordados:
+- Crie formulários complexos
 
-> Crie formulários complexos
-> Trabalhe com campos para celulares
-> Apresente informações em tabelas
-> Use estilos para formulários, campos e tabelas
-> Entenda a hierarquia no CSS
-> Trabalhe com transformações e transições
+- Trabalhe com campos para celulares
 
-Aula 2: HTML5 e CSS3 parte 4: avançando no CSS
+- Apresente informações em tabelas
 
-Tópicos abordados:
+- Use estilos para formulários, campos e tabelas
 
-> Importe conteúdo externo na sua página HTML, como fontes, vídeos e mapas
-> Conheça pseudo-classes e pseudo-elementos
-> Use seletores de CSS avançados
-> Saiba como lidar com opacidade e sombra
-> Entenda sobre o Viewport e design responsivo
+- Entenda a hierarquia no CSS
+
+- Trabalhe com transformações e transições
+
+
+## Aula 2: HTML5 e CSS3 parte 4: avançando no CSS
+
+### Tópicos abordados:
+
+- Importe conteúdo externo na sua página HTML, como fontes, vídeos e mapas
+
+- Conheça pseudo-classes e pseudo-elementos
+
+- Use seletores de CSS avançados
+
+- Saiba como lidar com opacidade e sombra
+
+- Entenda sobre o Viewport e design responsivo
