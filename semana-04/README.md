@@ -1,8 +1,8 @@
-#SEMANA 4 
+# SEMANA 4 
 
-##Aula 1: Figma: construindo o layout do seu site mobile
+## Aula 1: Figma: construindo o layout do seu site mobile
 
-###Tópicos abordados:
+### Tópicos abordados:
 
 - Entenda os conceitos básicos de criação de um site mobile
 
@@ -13,9 +13,9 @@
 - Aprenda a prototipar sites com alta fidelidade
 
 
-##Aula 2: Figma: construindo o layout do seu site mobile
+## Aula 2: Figma: construindo o layout do seu site mobile
 
-###Tópicos abordados:
+### Tópicos abordados:
 
 - Aprenda a criar componentes de elementos
 
@@ -27,6 +27,6 @@
 
 - Aprenda a criar interfaces padronizadas de forma ágil e automatizada
 
-###Projeto implementado:
+### Projeto implementado:
 
 - [Protótipo site](https://www.figma.com/file/ksBSQQVyr32I9gfMsQDiWP/Figma%3A-Construindo-o-layout-do-seu-primeiro-site-mobile-(Community)?node-id=67-12) 
