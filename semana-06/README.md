@@ -21,7 +21,7 @@
 
 ### Tópicos abordados:
 
-- ide com as definições de construção de um design system
+- Lide com as definições de construção de um design system
 
 - Entenda o que há por trás do conceito design atômico
 
