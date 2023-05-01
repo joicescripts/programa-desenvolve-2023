@@ -1,0 +1,43 @@
+<meta charset="UTF-8">
+
+<head>
+    <title>Jogo de adivinha</title>
+</head>
+
+<script>
+
+    function pulaLinha() {
+        document.write("<br><br>");
+    }
+   
+    function mostra(frase) {
+        document.write(frase);
+        pulaLinha();
+    }
+
+    var numeroPensado = Math.round(Math.random()*10);
+
+    var tentativas = 1;
+
+    while(tentativas <= 3) {
+
+        var chute = parseInt(prompt("Digite seu chute"));
+
+        if (chute == numeroPensado) {
+            mostra("Você ACERTOU, o número pensado era " + numeroPensado);
+            break;
+
+        } else {
+            mostra("Você ERROU!");
+
+            if(tentativas == 3) {
+                mostra("O número pensado era " + numeroPensado);
+            }
+        }
+
+        tentativas++;
+    }
+
+    mostra("FIM");
+    
+</script>

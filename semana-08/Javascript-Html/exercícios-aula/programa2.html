@@ -1,0 +1,36 @@
+<canvas width="600" height="400"></canvas>
+
+<script>
+
+    function quadrado(x, y, cor) {
+    var tela = document.querySelector("canvas");
+    var pincel = tela.getContext("2d");
+
+    pincel.fillStyle = cor;
+    pincel.fillRect(x, y, 50, 50);
+    pincel.fillStroke = "black";
+    pincel.strokeRect(x, y, 50, 50);
+    
+}
+
+for(var x = 0; x < 600; x = x + 100) {
+
+    quadrado(x, 0, "blue");
+}
+
+
+// }
+// var x = 0;
+// while(x < 600) {
+//     quadrado(x, 0, "blue");
+//     x = x + 100;
+// }
+
+
+// quadrado(0,0,"blue")
+// quadrado(100,0,"black")
+// quadrado(200,0,"black")
+// quadrado(300,0,"blue")
+
+
+ </script>
